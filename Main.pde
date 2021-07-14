@@ -1,6 +1,6 @@
 import processing.sound.*;
 
-int stage = 1;//set where the game starts
+int stage = 0;//set where the game starts
 int frameRate = 60;
 
 final float iniWidth = 768;//initial window dimentions
