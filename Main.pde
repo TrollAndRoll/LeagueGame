@@ -17,7 +17,7 @@ void setup() {
   //smooth();
   //x = width*0.08333;
   //y = height*0.5;
-  surface.setTitle("IDK Yet");
+  surface.setTitle("Cave Explorer");
   surface.setResizable(true);
   surface.setLocation(550, 250);
   //surface.setAlwaysOnTop(true);
